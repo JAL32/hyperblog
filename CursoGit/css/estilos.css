@@ -2,10 +2,20 @@ body
 {
     text-align:center;
     color:blueviolet;
-    font-family:"Arial";
 }
 
 h1
 {
+    font-family:"Courier";
     font-weight: 900;
+}
+
+h2
+{
+    font-family:"Arial";
+}
+
+h3
+{
+    font-family:"Arial";
 }
