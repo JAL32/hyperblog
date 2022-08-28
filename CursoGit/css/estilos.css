@@ -1,6 +1,7 @@
 body
 {
     color:blueviolet;
+    text-align: left;
 }
 
 h1
@@ -19,7 +20,7 @@ h3
     font-family:"Courier";
 }
 
-footer
+#footer
 {
     text-align:center;
     background-color:azure;
