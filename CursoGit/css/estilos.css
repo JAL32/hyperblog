@@ -1,8 +1,8 @@
 body
 {
-    text-align:center;
     color:blueviolet;
     background-image: url(images/dinosaurio.jpg);
+    text-align: left;
 }
 
 h1
@@ -19,4 +19,10 @@ h2
 h3
 {
     font-family:"Courier";
+}
+
+#footer
+{
+    text-align:center;
+    background-color:azure;
 }
