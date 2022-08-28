@@ -1,12 +1,8 @@
-html
-{
-    background-image: url(images/dinosaurio.jpg);
-}
-
 body
 {
     text-align:center;
     color:blueviolet;
+    background-image: url(images/dinosaurio.jpg);
 }
 
 h1
